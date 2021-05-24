@@ -2,7 +2,7 @@
  * text.h -- внешний интерфейс библиотеки для работы с текстом
  *
  * Copyright (c) 2021, Alexander Borodin <aborod@petrsu.ru> 
- *                     Kvist Tatyana <kvist_tatyana@mail.ru>
+ *                    
  *
  * This code is licensed under a MIT-style license.
  */
