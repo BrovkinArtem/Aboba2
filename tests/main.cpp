@@ -1,6 +1,9 @@
-#include "tst_test1.h"
-#include "fibonachi_test.h"
-#include "test_sq_eq.h"
+#include "save.h"
+#include "showupper.h"
+#include "mlb.h"
+#include "m.h"
+#include "r1e.h"
+#include "load.h"
 
 #include <gtest/gtest.h>
 
