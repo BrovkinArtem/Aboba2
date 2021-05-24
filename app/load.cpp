@@ -2,7 +2,7 @@
  * load.cpp -- функция загрузки текста из файла
  * 
  * Copyright (c) 2021, Alexander Borodin <aborod@petrsu.ru> 
- *                     Kvist Tatyana <kvist_tatyana@mail.ru>
+ *                    
  *
  * This code is licensed under a MIT-style license.
  */
