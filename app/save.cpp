@@ -1,7 +1,7 @@
 /**
  * save.cpp -- функция загрузки текста в файл
  * 
- * Copyright (c) 2021, Kvist Tatyana <kvist@petrsu.ru>
+ * Copyright (c) 2021, Brovkin Artem
  *
  * This code is licensed under a MIT-style license.
  */
